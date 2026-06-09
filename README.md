@@ -80,7 +80,13 @@ I enjoy understanding how systems work, thinking like an attacker, and continuou
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Tech57&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
----
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Tech57&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📊 GitHub Statistics
 
 <p align="center">
