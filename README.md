@@ -1,50 +1,96 @@
-<h1>👋 Hello! Nice to see you.</h1>
+# Hi there, I'm Mo Men 👋
 
-<p>
-Welcome to my GitHub profile! <br>
-I'm <b>Mo Men</b> from 🇪🇬 Egypt.
+### Cybersecurity Enthusiast | Aspiring Penetration Tester | Bug Bounty Hunter
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Web%20Security-4B32C3?style=for-the-badge&logo=opsgenie&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bug%20Bounty-181717?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-<p>
-💻 I'm currently learning <b>Python</b> and exploring the world of <b>Cybersecurity & Bug Bounty</b>.
+---
+
+## 🛡️ About Me
+
+Hello! I'm **Mo Men** from 🇪🇬 Egypt.
+
+I am passionate about **Cybersecurity**, with a growing focus on **Web Application Security**, **Bug Bounty Hunting**, and **Penetration Testing**. I enjoy understanding how systems work, thinking like an attacker, and continuously improving my technical skills through hands-on practice and real-world labs.
+
+I believe that cybersecurity is a journey of constant learning, curiosity, and persistence.
+
+* 🔭 Currently focused on strengthening my Bug Bounty methodology.
+* 🧪 Practicing through security labs and vulnerable environments.
+* 🌱 Expanding my knowledge in Python automation and offensive security.
+* ⚡ Always eager to learn something new every day.
+
+---
+
+## 🚀 What I'm Learning
+
+* 🐍 Python Programming
+* 🔐 Cybersecurity Fundamentals
+* 🕵️ Bug Bounty & Vulnerability Hunting
+* 🌐 Web Application Security (OWASP Top 10)
+* ⚙️ Security Automation with Python
+* 📱 Android Security & Mobile Fundamentals
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category               | Technologies                      |
+| :--------------------- | :-------------------------------- |
+| **Programming**        | `Python` `Bash`                   |
+| **Operating Systems**  | `Linux`                           |
+| **Version Control**    | `Git` `GitHub`                    |
+| **Development**        | `VS Code` `Android Studio`        |
+| **Security Tools**     | `Burp Suite` `Nmap` `Wireshark`   |
+| **Learning Platforms** | `PortSwigger Academy` `TryHackMe` |
+
+---
+
+## 📚 Current Goals
+
+* Improve my Python programming skills.
+* Develop useful automation scripts.
+* Strengthen penetration testing fundamentals.
+* Advance my Bug Bounty methodology.
+* Build and publish practical projects on GitHub.
+* Contribute more actively to the cybersecurity community.
+
+---
+
+## 📌 Future Projects
+
+* 🐍 Python Automation Scripts
+* 🔐 Beginner-Friendly Security Tools
+* 📱 Mobile Security Experiments
+* 🌐 Web Security Utilities
+* 📝 Technical Write-ups and Learning Notes
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Tech57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Tech57&theme=tokyonight&hide_border=true" alt="Contribution Streak" height="180px" />
 </p>
 
-<h3>🚀 What I'm learning</h3>
+---
 
-<ul>
-<li>🐍 Python Programming</li>
-<li>🔐 Cybersecurity Basics</li>
-<li>🕵️ Bug Bounty & Vulnerability Hunting</li>
-<li>⚙️ Automation with Python</li>
-<li>📱 Android App Development</li>
-</ul>
+## 🤝 Connect With Me
 
-<h3>🧰 Tools & Technologies</h3>
+Feel free to connect, collaborate, or discuss cybersecurity topics.
 
-<p>
-Python • Git • GitHub • Linux • VS Code • Android Studio
-</p>
+* GitHub: https://github.com/Mostafa-Tech57
+* LinkedIn: Add your LinkedIn profile here.
+* Email: Add your email address here.
 
-<h3>📚 Current Goals</h3>
+---
 
-<ul>
-<li>Improve my Python programming skills</li>
-<li>Build small useful tools and scripts</li>
-<li>Learn penetration testing fundamentals</li>
-<li>Start contributing projects on GitHub</li>
-</ul>
-
-<h3>📌 Future Projects</h3>
-
-<ul>
-<li>Age Calculator (Python)</li>
-<li>Automation Scripts</li>
-<li>Simple Security Tools</li>
-<li>Android Apps</li>
-</ul>
-
-<h3>📫 Connect with me</h3>
-
-<p>
-GitHub: your-github-username
+<p align="center">
+  <i>"Security is a process, not a product." — Bruce Schneier</i>
 </p>
