@@ -75,6 +75,12 @@ I enjoy understanding how systems work, thinking like an attacker, and continuou
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Tech57&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+---
 ## 📊 GitHub Statistics
 
 <p align="center">
