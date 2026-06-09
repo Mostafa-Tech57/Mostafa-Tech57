@@ -3,6 +3,10 @@
 ### Cybersecurity Enthusiast | Aspiring Penetration Tester | Bug Bounty Hunter
 
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Tech57&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/-Web%20Security-4B32C3?style=for-the-badge&logo=opsgenie&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bug%20Bounty-181717?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
