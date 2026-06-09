@@ -15,14 +15,14 @@
 
 Hello! I'm **Mo Men** from 🇪🇬 Egypt.
 
-I am passionate about **Cybersecurity**, with a growing focus on **Web Application Security**, **Bug Bounty Hunting**, and **Penetration Testing**. I enjoy understanding how systems work, thinking like an attacker, and continuously improving my technical skills through hands-on practice and real-world labs.
+I'm passionate about Cybersecurity, with a strong interest in **Web Application Security**, **Bug Bounty Hunting**, and **Penetration Testing**.
 
-I believe that cybersecurity is a journey of constant learning, curiosity, and persistence.
+I enjoy understanding how systems work, thinking like an attacker, and continuously improving my skills through hands-on practice, labs, and real-world learning experiences.
 
 * 🔭 Currently focused on strengthening my Bug Bounty methodology.
-* 🧪 Practicing through security labs and vulnerable environments.
+* 🧪 Practicing through PortSwigger labs and security challenges.
 * 🌱 Expanding my knowledge in Python automation and offensive security.
-* ⚡ Always eager to learn something new every day.
+* ⚡ I believe consistency and curiosity are the keys to growth.
 
 ---
 
@@ -33,7 +33,7 @@ I believe that cybersecurity is a journey of constant learning, curiosity, and p
 * 🕵️ Bug Bounty & Vulnerability Hunting
 * 🌐 Web Application Security (OWASP Top 10)
 * ⚙️ Security Automation with Python
-* 📱 Android Security & Mobile Fundamentals
+* 📱 Mobile Security Fundamentals
 
 ---
 
@@ -65,8 +65,8 @@ I believe that cybersecurity is a journey of constant learning, curiosity, and p
 
 * 🐍 Python Automation Scripts
 * 🔐 Beginner-Friendly Security Tools
-* 📱 Mobile Security Experiments
 * 🌐 Web Security Utilities
+* 📱 Android Security Experiments
 * 📝 Technical Write-ups and Learning Notes
 
 ---
@@ -83,11 +83,19 @@ I believe that cybersecurity is a journey of constant learning, curiosity, and p
 
 ## 🤝 Connect With Me
 
-Feel free to connect, collaborate, or discuss cybersecurity topics.
+<p align="left">
+  <a href="https://github.com/Mostafa-Tech57">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-* GitHub: https://github.com/Mostafa-Tech57
-* LinkedIn: Add your LinkedIn profile here.
-* Email: Add your email address here.
+  <a href="https://www.linkedin.com/in/mostafa-ahmed-zaky-957072214">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mostafaahmedzaki57@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
